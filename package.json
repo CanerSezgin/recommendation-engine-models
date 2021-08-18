@@ -1,0 +1,14 @@
+{
+  "name": "recommendation-engine",
+  "version": "1.0.0",
+  "description": "Collaborative Filtering Rec. Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caner Sezgin <ccanersezgin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-apriori": "^1.0.0"
+  }
+}
